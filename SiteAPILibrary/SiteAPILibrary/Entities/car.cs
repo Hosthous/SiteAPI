@@ -24,11 +24,11 @@ namespace SiteAPILibrary.Entities
                 this.SetValue("brand", value);
             }
         }
-        public Cmodel model//Модель
+        public model model//Модель
         {
             get
             {
-                return (Cmodel)this.GetValue(nameof(model));
+                return (model)this.GetValue(nameof(model));
             }
             set
             {

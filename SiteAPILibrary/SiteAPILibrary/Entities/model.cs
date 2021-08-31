@@ -4,13 +4,13 @@ using System.Text;
 
 namespace SiteAPILibrary.Entities
 {
-    public class Cmodel:Entities.EntityBase
+    public class model:Entities.EntityBase
     {
-        public Cmodel() : base()
+        public model() : base()
         {
 
         }
-        public Cmodel(Dictionary<string, object> fields) : base(fields)
+        public model(Dictionary<string, object> fields) : base(fields)
         {
 
         }

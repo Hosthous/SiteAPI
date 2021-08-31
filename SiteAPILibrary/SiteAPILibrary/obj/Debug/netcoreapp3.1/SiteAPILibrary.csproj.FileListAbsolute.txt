@@ -1,0 +1,10 @@
+C:\Users\dzhuravlev\source\repos\SiteAPI\SiteAPILibrary\SiteAPILibrary\bin\Debug\netcoreapp3.1\SiteAPILibrary.deps.json
+C:\Users\dzhuravlev\source\repos\SiteAPI\SiteAPILibrary\SiteAPILibrary\bin\Debug\netcoreapp3.1\SiteAPILibrary.dll
+C:\Users\dzhuravlev\source\repos\SiteAPI\SiteAPILibrary\SiteAPILibrary\bin\Debug\netcoreapp3.1\SiteAPILibrary.pdb
+C:\Users\dzhuravlev\source\repos\SiteAPI\SiteAPILibrary\SiteAPILibrary\obj\Debug\netcoreapp3.1\SiteAPILibrary.csproj.AssemblyReference.cache
+C:\Users\dzhuravlev\source\repos\SiteAPI\SiteAPILibrary\SiteAPILibrary\obj\Debug\netcoreapp3.1\SiteAPILibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzhuravlev\source\repos\SiteAPI\SiteAPILibrary\SiteAPILibrary\obj\Debug\netcoreapp3.1\SiteAPILibrary.AssemblyInfoInputs.cache
+C:\Users\dzhuravlev\source\repos\SiteAPI\SiteAPILibrary\SiteAPILibrary\obj\Debug\netcoreapp3.1\SiteAPILibrary.AssemblyInfo.cs
+C:\Users\dzhuravlev\source\repos\SiteAPI\SiteAPILibrary\SiteAPILibrary\obj\Debug\netcoreapp3.1\SiteAPILibrary.csproj.CoreCompileInputs.cache
+C:\Users\dzhuravlev\source\repos\SiteAPI\SiteAPILibrary\SiteAPILibrary\obj\Debug\netcoreapp3.1\SiteAPILibrary.dll
+C:\Users\dzhuravlev\source\repos\SiteAPI\SiteAPILibrary\SiteAPILibrary\obj\Debug\netcoreapp3.1\SiteAPILibrary.pdb
