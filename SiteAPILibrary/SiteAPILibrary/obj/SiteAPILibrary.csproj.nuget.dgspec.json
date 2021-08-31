@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dzhuravlev\\source\\repos\\SiteAPILibrary\\SiteAPILibrary\\SiteAPILibrary.csproj": {}
+    "C:\\Users\\dzhuravlev\\source\\repos\\SiteAPI\\SiteAPILibrary\\SiteAPILibrary\\SiteAPILibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dzhuravlev\\source\\repos\\SiteAPILibrary\\SiteAPILibrary\\SiteAPILibrary.csproj": {
+    "C:\\Users\\dzhuravlev\\source\\repos\\SiteAPI\\SiteAPILibrary\\SiteAPILibrary\\SiteAPILibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dzhuravlev\\source\\repos\\SiteAPILibrary\\SiteAPILibrary\\SiteAPILibrary.csproj",
+        "projectUniqueName": "C:\\Users\\dzhuravlev\\source\\repos\\SiteAPI\\SiteAPILibrary\\SiteAPILibrary\\SiteAPILibrary.csproj",
         "projectName": "SiteAPILibrary",
-        "projectPath": "C:\\Users\\dzhuravlev\\source\\repos\\SiteAPILibrary\\SiteAPILibrary\\SiteAPILibrary.csproj",
+        "projectPath": "C:\\Users\\dzhuravlev\\source\\repos\\SiteAPI\\SiteAPILibrary\\SiteAPILibrary\\SiteAPILibrary.csproj",
         "packagesPath": "C:\\Users\\dzhuravlev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dzhuravlev\\source\\repos\\SiteAPILibrary\\SiteAPILibrary\\obj\\",
+        "outputPath": "C:\\Users\\dzhuravlev\\source\\repos\\SiteAPI\\SiteAPILibrary\\SiteAPILibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dzhuravlev\\AppData\\Roaming\\NuGet\\NuGet.Config",
